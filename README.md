@@ -46,11 +46,11 @@ Run the script:
 python sandip.py
 ```
 
-Follow the on-screen instructions to start using HARRYv6 and explore its features.
+Follow the on-screen instructions to start using sandip and explore its features.
 
 ## Contribution
 
-If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on [GitHub](https://github.com/HARRY-EXE/HARRYv6). Your contributions are highly appreciated!
+If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on [GitHub](https://github.com/Sandipeyy/sandip). Your contributions are highly appreciated!
 
 ## License
 
